@@ -1,0 +1,95 @@
+body {
+	/*background-image: url("../Images/backgroundImage.jpg");*/
+	background-color: white;
+
+}
+h1{
+	color:black;
+	font-size: 25px;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  	width: 28%;
+}
+.p{
+	font-family: sans-serif;
+	font-size:15px;
+	color: black;
+	display: inline;
+}
+.paragraph{
+  background-color: rgb(120, 120, 120);
+
+  border: 1px solid black;
+  padding: 5px;
+  margin: 5px;
+}
+
+.h1{
+	color: red;
+}
+.first{
+	color:purple;
+	font-weight: bold;
+}
+.word1{
+	color:purple;
+}
+.word2{
+	color:purple;
+}
+.word3{
+	color:purple;
+}
+.word4{
+	color:purple;
+}
+.second{
+	color:DeepPink;
+	font-weight: bold;
+}
+.mot1{
+	color:DeepPink;
+}
+.mot2{
+	color:DeepPink;
+}
+.third{
+	color:DarkGreen;
+	font-weight: bold;
+}
+.mess1{
+	color:DarkGreen;
+}
+.mess2{
+	color:DarkGreen;
+}
+.four{
+	color:DarkRed;
+	font-weight: bold;
+}
+.me1{
+	color:DarkRed;
+}
+.me2{
+	color:DarkRed;
+}
+.s{
+	color: Indigo;
+	height: 40px;
+}
+.inner {
+ margin-top:19px;
+ border-bottom: 2px dotted #b38b0d;
+}
+.hw1{
+	color: black;
+	font-weight: bold;
+
+}
+.hw2{
+	color: black;
+	font-weight: bold;
+}
